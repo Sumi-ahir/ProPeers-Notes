@@ -1,5 +1,5 @@
  Day 1 - 2025-09-07
-#Topic: Hoisting
+# Topic: Hoisting
 
 + Definition
 Hoisting is the process in JavaScript where **variable declarations (`var`)** and **function declarations** are moved to the top of their scope (memory is allocated) before the code executes.
@@ -11,7 +11,7 @@ Hoisting is the process in JavaScript where **variable declarations (`var`)** an
 
 ---
 
-# 🔹 Example 1: var
+# Example (var)
 ```js
 console.log(a); // undefined
 var a = 5;
