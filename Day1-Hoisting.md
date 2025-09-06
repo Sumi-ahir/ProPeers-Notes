@@ -13,6 +13,7 @@ Hoisting is the process in JavaScript where **variable declarations (`var`)** an
 
 # Example 
 ```js
++ USING VAR
 console.log(a); // undefined
 var a = 5;
 console.log(a); // 5
@@ -22,6 +23,14 @@ var a;              // declaration hoisted
 console.log(a);     // undefined
 a = 5;              // assignment
 console.log(a);     // 5
+
++ USING LET/CONST
+console.log(b); //  ReferenceError 
+let b = 10;
+
+console.log(c); //  ReferenceError 
+const c = 20;
+
 
 # Function Hoisting
 sayHello(); 
