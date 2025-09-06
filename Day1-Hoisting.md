@@ -11,7 +11,7 @@ Hoisting is the process in JavaScript where **variable declarations (`var`)** an
 
 ---
 
-# Example (var)
+# Example 
 ```js
 console.log(a); // undefined
 var a = 5;
