@@ -1,10 +1,13 @@
  # Question
 
 + Which command in Unix is used to display the current directory's contents?
--ls
+  ANS :ls
+
+# Identify the mistake in this command:
 
 + db.collection.createIndex({ age: "-1" })
- - Incorrect index type
+
+  ANS :Incorrect index type
 
 Explanation
 
