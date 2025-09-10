@@ -10,6 +10,7 @@ const proPeersSlice = proPeersArr.slice(1, 3);
 console.log(proPeersSlice);
 ans => 2,3
 
+slice(start, end) returns a shallow copy of the array from the start index up to but not including the end index.
 
  # slice(start, end)
 
