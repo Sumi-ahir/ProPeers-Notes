@@ -1,4 +1,4 @@
-# 📘 Important Linux Commands (Operating Systems)
+#  Important Linux Commands (Operating Systems)
 
 This file contains some **important Linux commands** that are frequently asked in interviews and used in real-life system monitoring.
 
@@ -9,7 +9,7 @@ This file contains some **important Linux commands** that are frequently asked i
 ```bash
 cd /home/user/Documents
 ```
-➡️ Moves into the **Documents** directory.  
+➡ Moves into the **Documents** directory.  
 
 ---
 
@@ -18,7 +18,7 @@ cd /home/user/Documents
 ```bash
 ps aux
 ```
-➡️ Displays all processes with details like PID, user, CPU%, memory%, etc.  
+➡ Displays all processes with details like PID, user, CPU%, memory%, etc.  
 
 ---
 
@@ -27,7 +27,7 @@ ps aux
 ```bash
 top
 ```
-➡️ Useful for identifying processes consuming high CPU or memory.  
+➡ Useful for identifying processes consuming high CPU or memory.  
 
 ---
 
@@ -36,7 +36,7 @@ top
 ```bash
 kill -9 <PID>
 ```
-➡️ Forcefully kills the process with the given PID.  
+➡ Forcefully kills the process with the given PID.  
 
 ---
 
@@ -45,7 +45,7 @@ kill -9 <PID>
 ```bash
 pwd
 ```
-➡️ Shows the absolute path of your current directory.  
+➡ Shows the absolute path of your current directory.  
 
 ---
 
@@ -54,7 +54,7 @@ pwd
 ```bash
 ls -l
 ```
-➡️ Shows files in a detailed list format.  
+➡ Shows files in a detailed list format.  
 
 ---
 
@@ -63,7 +63,7 @@ ls -l
 ```bash
 who
 ```
-➡️ Displays all logged-in users.  
+➡ Displays all logged-in users.  
 
 ---
 
@@ -72,11 +72,11 @@ who
 ```bash
 df -h
 ```
-➡️ Displays disk usage in human-readable format.  
+➡ Displays disk usage in human-readable format.  
 
 ---
 
-## 📝 Summary
+## Summary
 - `cd` → Change directory  
 - `ps` → List processes  
 - `top` → Monitor processes live  
