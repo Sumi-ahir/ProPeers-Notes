@@ -1,6 +1,6 @@
 # Problem of the Day - Operating Systems
 
-## 📌 Question
+##  Question
 To identify a process consuming an unusually high amount of system resources, you would use:
 
 ### Options:
@@ -11,9 +11,9 @@ To identify a process consuming an unusually high amount of system resources, yo
 
 ---
 
-## ✅ Correct Answer: `top command`
+## Correct Answer: `top command`
 
-### 📖 Explanation:
+### Explanation:
 - **cd command** → Used to change directory.  
 - **ps command** → Shows the currently running processes, but not real-time resource usage.  
 - **kill command** → Used to terminate (kill) a process.  
