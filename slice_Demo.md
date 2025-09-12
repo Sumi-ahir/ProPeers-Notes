@@ -1,5 +1,5 @@
 
-### 🚀 Topic: Array Slice Example
+###  Topic: Array Slice Example
 
 ####  Question  
 What will be the output of the following JS code?
