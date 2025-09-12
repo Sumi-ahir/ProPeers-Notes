@@ -1,4 +1,4 @@
-### 🚀 Topic: JavaScript Arrow Function `this`
+###  Topic: JavaScript Arrow Function `this`
 
 ####  Question
 What will be logged to the console?
@@ -9,10 +9,10 @@ const proPeersFunc = () => {
 };
 proPeersFunc();
 
-✅ Answer
+ Answer
 TRUE
 
-📝 Explanation
+Explanation
 
 Arrow functions (()=>) lexical this binding use કરે છે, એટલે arrow function પોતાનું this નથી બનાવતું.
 
