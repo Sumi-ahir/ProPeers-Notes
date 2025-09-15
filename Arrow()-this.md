@@ -14,7 +14,7 @@ TRUE
 
 Explanation
 
-Arrow functions (()=>) lexical this binding use કરે છે, એટલે arrow function પોતાનું this નથી બનાવતું.
+Arrow functions ()=>) lexical this binding use કરે છે, એટલે arrow function પોતાનું this નથી બનાવતું.
 
 Global scope માં, this browser environment માં window ને refer કરે છે.
 
