@@ -1,6 +1,6 @@
 ###  Topic: JavaScript Arrow Function `this`
 
-###  Question
+####  Question
 What will be logged to the console?
 
 ```javascript
