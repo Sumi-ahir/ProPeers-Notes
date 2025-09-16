@@ -3,7 +3,7 @@
 + Which command in Unix is used to display the current directory's contents?
   ANS :ls
 
-#  Identify the mistake in this command:
+# Identify the mistake in this command:
 
 + db.collection.createIndex({ age: "-1" })
 
